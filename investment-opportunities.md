@@ -23,23 +23,23 @@ The nominal sales price of the token will be €1,- per token.
 
 The scheduled investment scheme is expected to be as follows:
 
-<figure><img src=".gitbook/assets/Expected Costs and Revenues – 2022 – 2025.png" alt="Expected Costs and Revenues – 2022 – 2025"><figcaption><p>Expected Costs and Revenues – 2022 – 2025</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Expected investment schedule</p></figcaption></figure>
 
 The expected costs are split up in various categories. The main costs of 2022 will consist of the setup of the G360DAO. The main costs in the follow on years are made up of the development of the information security insight applications, which will be the primary product for revenue generation of G360DAO. A detailed overview of the costs can be seen below.
 
-<figure><img src=".gitbook/assets/Overview of costs.png" alt="Overview of costs"><figcaption><p>Overview of costs</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Overview of costs</p></figcaption></figure>
 
 The investments raised by the token and NFT sales will be mainly used, as shown above, on information security insight application development.
 
 The projected revenues are built up out of two main components. The focus of G360DAO will be to provide B2B services, selling the security insights both as a service and one-off development to security platform providers or to companies who want to incorporate information security insight applications into their own IT systems. There is a launching customer revenue stream from Guardian360 BV, right as of 2023, for whom the DAO will develop information security insight applications. In 2023, the DAO will create a webshop where other customers can purchase the information security insight applications as well. Although a 600% growth of revenue stream from Guardian360 BV is projected over the period 2023-2025, the main growth of revenue will have to come from sales to other security platform providers. A projection is shown below.
 
-<figure><img src=".gitbook/assets/Projection.png" alt="Projection"><figcaption><p>Projection</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Revenue projection</p></figcaption></figure>
 
 ### Revenue sharing
 
 The investment and other token holders will be granted a share of the revenue, not just the profit. The revenue of G360DAO will be spread over 6 groups, the direct contributors of the DAO (DRev and other Rev share token holders, [see the G360DAO whitepaper for more information](https://app.gitbook.com/o/2YkrRUxPFdNDfr8LQAiG/s/hmXrG47OL0trMvj7QZzb/)), the investors (regular and NFT) and the treasury of the DAO. Projected revenue sharing already starts in 2023 and will grow steadily over the years. Details of the anticipated revenue sharing per group per year is displayed below.
 
-<figure><img src=".gitbook/assets/Anticipated revenue sharing per group per year.png" alt="Anticipated revenue sharing per group per year"><figcaption><p>Anticipated revenue sharing per group per year</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Anticipated revenue sharing per group per year</p></figcaption></figure>
 
 The repayment on NFTs is displayed as an average as the exact amount of repayment depends on the type of NFT that is bought. The revenue split per group will be set until 2025, afterwards, the token holders of the DAO can jointly decide to alter the division percentages based on their voting power ([see the G360DAO whitepaper for more information on governance](https://app.gitbook.com/o/2YkrRUxPFdNDfr8LQAiG/s/hmXrG47OL0trMvj7QZzb/). NFT holders will not have voting power in the DAO).
 
