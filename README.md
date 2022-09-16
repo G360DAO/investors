@@ -1,0 +1,7 @@
+# Global information security market size
+
+The global spending on information security products and services is forecast to grow rapidly. By 2024, the worldwide market size for information security is expected reach almost 175 billion. Information security is the practice of managing access to information, whether that is securing information from unauthorized access, or verifying the identity of those who claim to have authority to access information. ([https://www.statista.com/statistics/640141/worldwide-information-security-market-size/](https://www.statista.com/statistics/640141/worldwide-information-security-market-size/))
+
+<figure><img src=".gitbook/assets/Market size.png" alt="Market size"><figcaption><p>Market size</p></figcaption></figure>
+
+The global cyber security market was valued at USD 139.77 billion in 2021. The market is projected to grow from USD 155.83 billion in 2022 to USD 376.32 billion by 2029, exhibiting a CAGR of 13.4% during the forecast period. The global COVID-19 pandemic has been unprecedented and staggering, with security solution experiencing higher-than-anticipated demand across all regions compared to pre-pandemic levels. Based on our analysis, the global market had exhibited a rise of 7.7% in 2020 as compared to 2019.( [https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165](https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165))
