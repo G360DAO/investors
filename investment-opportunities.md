@@ -1,4 +1,4 @@
-# Review!->Investment opportunities
+# Investment opportunities
 
 G360DAO will offer two investment possibilities. NFT investment and regular investment. The return on investment varies per investment type.
 
@@ -6,7 +6,7 @@ G360DAO will offer two investment possibilities. NFT investment and regular inve
 
 The NFTs will have both a financial as a non-financial component. There will be a wide range of NFTs available with various prices and connected privileges, ranging from goodies to meet the founders and a seat as advisor. In total 10.000 NFT will be minted of which approximately 100 will have a special status. An overview of NFTs can be found on the [Mirror.xyz page of G360DAO](https://mirror.xyz/guardian360dao.eth/ANtQJ1DooE1qBeMZ44qZ3WUTw\_bhVPjJ5k9ci52YkM4). The financial setup of the NFTs will be that, as soon as G360DAO will create a positive revenue stream, the NFT holders will be paid 10-30% of the revenue stream until the initial purchase price + 10-30% of the initial purchase price has been repaid, creating a lifetime ROI of 10-30%.
 
-<mark style="background-color:yellow;">Link to waitinglist</mark>
+[Subscribe to the G360DAO NFT waiting list!](https://guardian360.activehosted.com/f/85)
 
 ### Regular investment
 
